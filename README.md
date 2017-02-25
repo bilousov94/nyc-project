@@ -1,10 +1,5 @@
-# NYC Life List *(working title)*
+# NYC Life
 Find essential life elements on the go in NYC: WiFi hotspots, subway entrances, and restrooms.
-
-### Abstract
-New York City has an insane variety of *things* to offer; from [food trucks](http://nyctruckfood.com/) to [secret sanctuaries](http://pix11.com/2016/05/11/secret-sanctuary-in-central-park-reopens-for-first-time-since-1930s/) and [anything in-between](https://www.timeout.com/newyork/things-to-do/secret-new-york), a resourceful New Yorker will never run our of new adventures. Out of all those *things*, however, a few things can be surprisingly hard to find especially when desperately urgent: ***WiFi hotspots, public restrooms, and subway entrances***. This proposed new web-app, **NYC Life List** (*working title*), will provide a single-source solution to easily find the three elements in New York City area, so that both residents and visitors can instantly determine their next step to get the problem solved--be it a quick email checking, a bad case of summer complaint, or find the entrance to the labyrinthian [Times Square subway station](http://www.subwaynut.com/ct/times_sq_123/index.php).
-
----
 
 ### Key features
 
